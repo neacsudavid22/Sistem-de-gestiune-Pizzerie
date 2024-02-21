@@ -1,0 +1,3 @@
+C:\Users\David\Desktop\programe visual studio\SistemGestiunePizzerie\x64\Debug\SistemGestiunePizzerie.exe
+C:\Users\David\Desktop\SistemGestiunePizzerie\x64\Debug\SistemGestiunePizzerie.exe
+C:\Users\David\OneDrive\Desktop\SistemGestiunePizzerie\x64\Debug\SistemGestiunePizzerie.exe

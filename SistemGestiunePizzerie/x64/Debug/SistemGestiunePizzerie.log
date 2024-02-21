@@ -1,0 +1,6 @@
+﻿  SistemGestiunePizzerie.cpp
+C:\Users\David\OneDrive\Desktop\SistemGestiunePizzerie\SistemGestiunePizzerie.cpp(93,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\David\OneDrive\Desktop\SistemGestiunePizzerie\SistemGestiunePizzerie.cpp(796,42): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\David\OneDrive\Desktop\SistemGestiunePizzerie\SistemGestiunePizzerie.cpp(797,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\David\OneDrive\Desktop\SistemGestiunePizzerie\SistemGestiunePizzerie.cpp(798,46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  SistemGestiunePizzerie.vcxproj -> C:\Users\David\OneDrive\Desktop\SistemGestiunePizzerie\x64\Debug\SistemGestiunePizzerie.exe
