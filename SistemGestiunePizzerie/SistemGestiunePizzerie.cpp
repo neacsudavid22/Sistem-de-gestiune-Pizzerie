@@ -902,5 +902,3 @@ int main() {
 
 	return 0;
 }
-//	am schimbat clasa ComandaPizza in Bucatar pentru ca mi-am dat seama ca avea erori de logica 
-// si era un fel de PizzaLivrata mai complexa
